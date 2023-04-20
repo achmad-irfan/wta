@@ -23,6 +23,10 @@
 <img src="tennis 5.png" class="img-fluid" alt="">  
 </p> 
 <h3>Dashboard result:</h3>
+<h4>Content Dashboard:</h4>
+<p align="center"> 
+<img src="tennis 6.png" class="img-fluid" alt="">  
+</p>  
 <h4>Page Tittle:</h4>
 <p align="center"> 
 <img src="tennis 1.png" class="img-fluid" alt="">  
