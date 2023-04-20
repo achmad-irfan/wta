@@ -23,37 +23,17 @@
 <img src="tennis 5.png" class="img-fluid" alt="">  
 </p> 
 <h3>Dashboard result:</h3>
-<h4>Page Customer Data:</h4>
+<h4>Page Tittle:</h4>
 <p align="center"> 
-<img src="fsp1.png" class="img-fluid" alt="">  
+<img src="tennis 1.png" class="img-fluid" alt="">  
 </p>  
-<h5>Dashboard Customer Data Component:</h5>
+<h5>Dashboard Head to head:</h5>
 <p align="center"> 
-<img src="fsp1s.png" class="img-fluid" alt="">  
+<img src="tennis 2.png" class="img-fluid" alt="">  
 </p>
-<h4>Page Sales Report Branch:</h4>
+<h4>Dashboard Distribution:</h4>
 <p align="center"> 
-<img src="fsp2.png" class="img-fluid" alt="">  
-</p>
-<h5>Dashboard Sales Report Branch Component:</h5>
-<p align="center"> 
-<img src="fsp2s.png" class="img-fluid" alt="">  
-</p>
-<h4>Page Sales Report Menu:</h4>
-<p align="center"> 
-<img src="fsp3.png" class="img-fluid" alt="">  
-</p>
-<h5>Dashboard Sales Report Menu Component:</h5>
-<p align="center"> 
-<img src="fsp3s.png" class="img-fluid" alt="">  
-</p>
-<h4>Page Sales Report Customer:</h4>
-<p align="center"> 
-<img src="fsp4.png" class="img-fluid" alt="">  
-</p>
-<h5>Dashboard Sales Report Customer Component:</h5>
-<p align="center"> 
-<img src="fsp4s.png" class="img-fluid" alt="">  
+<img src="tennis 3.png" class="img-fluid" alt="">  
 </p>
 <h3>Insight and Recomendation:</h3>
 <p>• Focus on improving delivery services by providing service promises, for example orders can be received 30 minutes after orders are placed within a 5 km radius. </p>
