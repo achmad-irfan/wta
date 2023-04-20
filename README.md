@@ -40,5 +40,5 @@
 <img src="tennis 3.png" class="img-fluid" alt="">  
 </p>
 <h3>Insight and Recomendation:</h3>
-<p>• The WTA tennis has a long history since established in 1968 (open era) and has produced hundreds of champions.The tournamen grew up year by year.  </p>
-
+<p>• The WTA tennis has a long history since established in 1968 (open era) and has produced hundreds of champions.The tournamen grew up year by year. But based on data, the surface that used in tournament is uneven, dominating by hard surface.   </p>
+<p>• The tennis wta player is dominantly come from USA and russia  </p>
