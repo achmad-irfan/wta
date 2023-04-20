@@ -4,16 +4,29 @@
 <h2> WTA (Women Tennis Associaytion) Dashboard </h2>
 <p> URL Dashoboard project : <a href="https://public.tableau.com/app/profile/achmad.irfan.afandi/viz/Statistics_16819371370300/Dashboard1?publish=yes">WTA Tennis </a></p>
 <h3> Background Project :</h3>
-<p>This is my personal project, and I want to make a project based on something that I love, that's tennis in fact I love to play and watch tennis since in junior high school  </p>
+<p>This is my personal project, and I want to make a project based on something that I love, that's tennis in fact I love to play and watch tennis since  junior high school  </p>
 <h3>Purpose:</h3>
 <p>Make a dashboard about women tennis, like statistic grand slam, player, head to head etc.</p>
 <h3>Dataset:</h3>
-<p>     </p>
+<p>I use the data from Jeff Sackman (user github), please check and download the foloowing link to see the dataset</p>
+<p> <a href="https://github.com/JeffSackmann/tennis_wta">Click Here </a></p>
+<p> The files that I used is wta matches 1968- wta matches 2022 (55 files)
+<h3> Data Preparation:</h3>
+<h4>Joining Files</h4>
+<p>First, these 55 files need to be joined to collect all the data </p>
+<p align="center"> 
+<img src="tennis 4.png" class="img-fluid" alt="">  
+</p> 
+<h4>Pivoting Coloumn </h4>
+<p>The column 'winner name' and 'looser name' need to be pivoting </p>
+<p align="center"> 
+<img src="tennis 5.png" class="img-fluid" alt="">  
+</p> 
 <h3>Dashboard result:</h3>
 <h4>Page Customer Data:</h4>
 <p align="center"> 
 <img src="fsp1.png" class="img-fluid" alt="">  
-</p>
+</p>  
 <h5>Dashboard Customer Data Component:</h5>
 <p align="center"> 
 <img src="fsp1s.png" class="img-fluid" alt="">  
